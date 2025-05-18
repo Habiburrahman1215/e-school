@@ -8,9 +8,11 @@
 
 .main-btn {
     background-color: #21b573;
-    border-left: 30px solid #21b573;
-    border-right: 30px solid #21b573;
-    border-radius: 20px;
+    color: white;
+    border: none;
+    border-radius: 19px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
 
 .nav-item {
@@ -22,7 +24,4 @@
 .banner-content {
     text-align: left;
     border: 2px solid;
-}
-.banner-txt {
-    align-items: center;
 }
